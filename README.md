@@ -47,8 +47,8 @@ Currently focusing on building projects in fraud detection, time series forecast
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelws2&show_icons=true&theme=tokyonight)
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelws2&show_icons=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelws2&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelws2&layout=compact&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joelws2)
