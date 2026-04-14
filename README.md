@@ -38,8 +38,8 @@ Currently focusing on building projects in fraud detection, time series forecast
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/username
-- LinkedIn: https://linkedin.com/in/username
-- Email: your_email@gmail.com
+- GitHub: https://github.com/joelws2
+- LinkedIn: https://linkedin.com/in/joel-wiseda-simanungkalit
+- Email: joelwsimanungkalit@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
