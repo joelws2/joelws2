@@ -41,10 +41,12 @@ Currently focusing on building projects in fraud detection, time series forecast
 - GitHub: https://github.com/joelws2
 - LinkedIn: https://linkedin.com/in/joelws2
 - Email: joelwsimanungkalit@gmail.com
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joelws2)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
